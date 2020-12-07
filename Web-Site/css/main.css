@@ -1,0 +1,24 @@
+﻿.container {
+    background-color: #f6f3e6;
+}
+
+.carouselImage {
+    height: 600px;
+    width: auto;
+}
+
+h1 {
+    text-align:center;
+    color:#7616b0;
+    font-weight:bold;
+}
+
+#allCategories{
+    color:#000000;
+    font-weight:bold;
+}
+
+#description {
+    color: #000000;
+    font-weight: bold;
+}
